@@ -147,7 +147,7 @@ function reqListener () {
     }
   }catch(error){
     mRequest.addEventListener("load", reqListener);
-    mRequest.open("GET","extra.json");
+    mRequest.open("GET","images.json");
     mRequest.send();
   }
 }
