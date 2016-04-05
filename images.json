@@ -1,34 +1,41 @@
 {
     "images": [
         {
-            "imgPath": "img/places/brittani-30.jpg",
-            "imgLocation": "Hope, New Jersey",
-            "description": "Beautiful Sunrise",
-            "date": "07/30/2015”
+            "imgPath": "img/places/australia.jpg",
+            "imgLocation": "Australia",
+            "description": "Loch Ard Gorge",
+            "date": "01/01/2016"
         },
         {
-            "imgPath": "img/places/lightpainting-2.jpg",
-            "imgLocation": "Hope, New Jersey",
-            "description": "Light Painting",
-            "date": "03/12/16"
+            "imgPath": "img/places/austria.jpg",
+            "imgLocation": "Austria",
+            "description": "Austrian chapel",
+            "date": "01/02/2016"
         },
         {
-            "imgPath": "img/places/rebecca-46.jpg",
-            "imgLocation": "Bloomfield, New Jersey",
-            "description": "Bloomfield High School Prom 2015",
-            "date": "05/08/15"
+            "imgPath": "img/places/france.jpg",
+            "imgLocation": "Paris",
+            "description": "Eiffel Tower",
+            "date": "01/03/2016"
         },
         {
-            "imgPath": "img/places/rebecca-334.jpg",
-            "imgLocation": "Bloomfield, New Jersey",
-            "description": "Bloomfield High School Prom 2014",
-            "date": "05/08/15"        },
+            "imgPath": "img/places/greece.jpg",
+            "imgLocation": "Greece",
+            "description": "Greek coastline",
+            "date": "01/04/2016"
+        },
         {
-            "imgPath": "img/places/warren-county-fair-183-1.jpg",
-            "imgLocation": "Warren County Fair Grounds, Harmony, New Jersey",
-            "description": "Warren County Fair Hot Air Balloon Festival",
-            "date": "08/02/16"
-        },        
+            "imgPath": "img/places/hungary.jpg",
+            "imgLocation": "Hungary",
+            "description": "Budapest skyline",
+            "date": "01/05/2016"
+        },
+        {
+            "imgPath": "img/places/india.jpg",
+            "imgLocation": "India",
+            "description": "Taj Mahal",
+            "date": "01/06/2016"
+        },
         {
             "imgPath": "img/places/italy.jpg",
             "imgLocation": "Italy",
