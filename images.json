@@ -28,12 +28,7 @@
             "imgLocation": "Warren County Fair Grounds, Harmony, New Jersey",
             "description": "Warren County Fair Hot Air Balloon Festival",
             "date": "08/02/16"
-        },        {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
-        },
+        },        
         {
             "imgPath": "img/places/italy.jpg",
             "imgLocation": "Italy",
